@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "guardianClass": "Titan",
+        "subclass": "solar",
+        "rating": 9,
+        "imageURL": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/02/destiny-2-sentinel-titan-rework.jpg"
+    },
+    {
+        "id": 2,
+        "guardianClass": "Warlock",
+        "subclass": "void",
+        "rating": 8,
+        "imageURL": "https://respawnfirst.com/wp-content/uploads/2022/06/Destiny-33.jpg"
+    },
+    {
+        "id": 3,
+        "guardianClass": "Hunter",
+        "subclass": "arc",
+        "rating": 6,
+        "imageURL": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/01/Destiny-2-Arcstrider.jpg"
+    }
+    
+]
